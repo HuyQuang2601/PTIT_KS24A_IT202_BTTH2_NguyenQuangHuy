@@ -1,7 +1,6 @@
 CREATE DATABASE mini_project_ss08;
 USE mini_project_ss08;
 
--- Xóa bảng nếu đã tồn tại (để chạy lại nhiều lần)
 DROP TABLE IF EXISTS bookings;
 DROP TABLE IF EXISTS rooms;
 DROP TABLE IF EXISTS guests;
